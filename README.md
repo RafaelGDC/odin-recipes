@@ -1,1 +1,2 @@
-# odin-recipes
+This is an Odin recipe project.
+This project consists of linking to recipe pages that I like. The skills I will demonstrate as a beginner are: using absolute links, ordered and unordered lists, paragraphs and headings.
